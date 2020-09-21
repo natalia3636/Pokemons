@@ -1,2 +1,3 @@
-# Pokemons
-Created with CodeSandbox
+# Aplicação Pokemon
+
+Discentes: Bruna e Natália
